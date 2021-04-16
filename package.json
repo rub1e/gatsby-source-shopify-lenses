@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-shopify-lenses",
-  "version": "4.4.0-next.1",
+  "version": "0.1.1",
   "description": "Gatsby source plugin for building websites using Shopify as a data source.",
   "scripts": {
     "build": "babel src --out-dir . --ignore \"**/__tests__\"",
